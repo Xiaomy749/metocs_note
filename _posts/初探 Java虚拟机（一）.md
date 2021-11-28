@@ -5,7 +5,7 @@ tags:
 - Java
 - Jvm
 categories:
-- [Java,Jvm]
+- [Jvm]
 ---
 
 # 													初探 Java虚拟机（一）
