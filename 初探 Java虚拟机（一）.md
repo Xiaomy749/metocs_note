@@ -2,6 +2,7 @@
 title: 初探 Java虚拟机（一）
 date: 2021-11-21 00:06:51
 index_img: /img/redisCover.jpg
+banner_img: /img/baseCover.jpg
 tags:
 - Java,Jvm
 ---
