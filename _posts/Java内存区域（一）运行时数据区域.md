@@ -1,12 +1,12 @@
 ---
 title: Java内存区域（一）运行时数据区域
+cover: https://cdn.jsdelivr.net/gh/Xiaomy749/metocs_pic/202112052056838.png
 date: 2021-11-29 22:06:51
 tags:
 - Java
 - Jvm
 categories:
 - [Java,Jvm]
-
 ---
 
 Java 虚拟机在执行Java程序的时候会把他所管理的内存区域划分成若干个不同的数据区域。这些区域有各自的用途及创建和销毁的时间，有的区域随着虚拟机进程的启动而一直存在。有的区域则是依赖用户线程的启动和结束而建立和销毁。
