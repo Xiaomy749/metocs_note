@@ -92,6 +92,8 @@ Java堆中经常会出现以下名称
 
 ![TLAB示意图](https://cdn.jsdelivr.net/gh/Xiaomy749/metocs_pic/202112012024611.jpg)
 
+​																													*图 1-2 TLAB示意图*
+
 Java堆既可以被实现成固定大小的也可以是可扩展的，不过当前主流的Java虚拟机都是按可扩展来实现的
 
 - -`Xms` ：设定最小堆空间
@@ -127,5 +129,7 @@ JDK 7 HotSpot 将原本放在永久代的字符串常量池、静态变量等移
 
 `OutOfMemoryError` 异常
 
+![](https://cdn.jsdelivr.net/gh/Xiaomy749/metocs_pic/202112052056838.png)
 
+​																												图 1-3 Java内存模型示意图*
 
