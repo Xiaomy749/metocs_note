@@ -3,9 +3,9 @@ title: Java内存区域（二）初探Java对象
 date: 2021-12-06 20:10:51
 tags:
 - Java
-- Jvm
+- Jvm笔记
 categories:
-- [Java,Jvm]
+- [Java,Jvm笔记]
 ---
 
 #### 1.对象的创建（仅限于普通对象）

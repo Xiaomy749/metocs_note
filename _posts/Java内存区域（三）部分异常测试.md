@@ -3,9 +3,9 @@ title: Java内存区域（三）部分异常测试
 date: 2021-12-13 21:58:00
 tags:
 - Java
-- Jvm
+- Jvm笔记
 categories:
-- [Java,Jvm]
+- [Java,Jvm笔记]
 
 ---
 
